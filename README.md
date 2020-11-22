@@ -1,14 +1,15 @@
 # Work Day Scheduler
 
-This "Work Day Scheduler" application was created using JavaScript and jQuery. It is a homework project, created while I'm attending the Web Development Course at UofT School of Continuing Studies.
+"Work Day Scheduler" application was created using JavaScript and jQuery. It is a homework project, created while I'm attending the Web Development Course at UofT School of Continuing Studies.
 
 ## Visuals
 
-![SCHEDULER](https://user-images.githubusercontent.com/61889668/97950226-3222ab00-1d64-11eb-8a49-3bb132290275.jpg)
+![sched](https://user-images.githubusercontent.com/61889668/99910662-44399e80-2cbd-11eb-95e9-0aeeabd51a64.jpg)
 
 ## Usage
 
 User will notice following files: 'index.html','style.css' and 'script.js'. Also, there's a README file.
+User will see table rows painted in different colors: lightgray for past time, red for current time and lightgreen for future time. User can enter input which, on a click of the button, will be saved into Local Storage as well as in the table itself. User can delete and change his inputs as he wishes.
 Link to a deployed application you can find here: https://ivanduranic.github.io/work-day-scheduler/
 
 ## Support
